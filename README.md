@@ -11,6 +11,9 @@
  <img align="center" alt="vuejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"/>  <img align="center" alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"/>  <img align="center" alt="nestjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" style="max-width: 100%;"/>  <img align="center" alt="react" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"/>
 <img align="center" alt="php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width: 100%;"/>
 <img align="center" alt="figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width: 100%;"/>
+<br/>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jpilson" />
 
 
 ### Connect with me:
