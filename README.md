@@ -1,5 +1,5 @@
-#👋 Hi, I’m @JPilson
-- 👀 I’m interested in  coding,music production and gamening
+# 👋 Hi, I’m Joao Sumbo or just call JP
+- 👀 I’m interested in  coding,music production and gaming
 - 🎓 I'm currently studying Computer Science
 - 👨‍💻 I’m currently learning React Navite
 <!---
