@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joao Sumbo or just call JP
+# 👋 Hi, I’m Joao Sumbo or just call me JP
 - 👀 I’m interested in  coding,music production and gaming
 - 🎓 I'm currently studying Computer Science
 - 👨‍💻 I’m currently learning React Navite
