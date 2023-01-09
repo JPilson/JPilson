@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joao Sumbo or just call me JP
 - 👀 I’m interested in  coding,music production and gaming
-- 🎓 I'm currently studying Computer Science
+- 🎓 I'm currently studying Ms.Software Engineering 
 
 <!---
 - 🌱 I’m currently learning ...
