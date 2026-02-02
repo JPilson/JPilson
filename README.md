@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Joao Sumbo or just call me JP
-- 👀 I’m interested in  coding,music production and gaming
-- 🎓 I'm currently studying Ms.Software Engineering 
+🚀 Software Engineer | 🎓 MSc in Software Engineering  | System Builder | Problem Solver
+
+- 👀 I’m interested in building scalable systems and real-world applications
+- 🎵 Into music production & 🎮 gaming when I’m not coding
 
 <!---
 - 🌱 I’m currently learning ...
